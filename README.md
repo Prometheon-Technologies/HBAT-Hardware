@@ -1,2 +1,2 @@
-# HBAT---Hardware
+# HBAT-Hardware
 Main Hardware repo for HBAT
