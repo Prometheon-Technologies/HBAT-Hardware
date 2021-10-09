@@ -43,7 +43,7 @@ __*Materials for printing*__
 
 # Code
 
- Our Code is closed-source with publically availble builds located here: (HBAT - Software)[https://github.com/Prometheon-Technologies/HBAT-Software-Public]
+ Our Code is closed-source with publically availble builds located here: [HBAT - Software](https://github.com/Prometheon-Technologies/HBAT-Software-Public)
 
 
 # HOW TO ORDER PCBS
