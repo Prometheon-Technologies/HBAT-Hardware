@@ -1,0 +1,27 @@
+LCSC Part Number,Description,Value,Quoted Manufacturer,Quoted LCSC Part Number,Quantity,Unit Price,Order Price,Quantity Available,Min\Mult Order Qty,RoHS,Part Match Confidence
+C15525,10µF,"C1,C26",Samsung Electro-Mechanics,C15525,2,0.0057,0.01,12283750,50\50,yes,100%
+C32949,10pF,C2,Samsung Electro-Mechanics,C32949,1,0.0054,0.01,92300,100\100,yes,100%
+C1525,100nF,C3,Samsung Electro-Mechanics,C1525,1,0.0011,0,51817800,100\100,yes,100%
+538-53048-1010,MOLEX_PICOBLADE_10P_RIGHT_ANGLE_SMD,C4,,,1,,,,,,0%
+C15525,10uF,"C7,C19",Samsung Electro-Mechanics,C15525,2,0.0057,0.01,12283750,50\50,yes,100%
+C14442,1nF,C8,Samsung Electro-Mechanics,C14442,1,0.0012,0,1872100,100\100,yes,100%
+C84701,0.1µF,C9,Samsung Electro-Mechanics,C84701,1,0.0056,0.01,3950,50\50,yes,100%
+C9808,LL4148,"D1,D8",ST(Semtech),C9808,2,0.0078,0.02,7230000,50\50,yes,100%
+C891416,MBR120LSFT1G,D2,onsemi,C891416,1,,0.78,,1\1,yes,100%
+C86471,Header-Male-2.54_1x2,"H1,H2",TE Connectivity,C86471,2,,0.31,,1\5,yes,100%
+,Screw_Terminal_1x10,J1,Infineon Technologies,C539000,1,,34.43,,1\1,yes,60%
+,picoblade 4P,"J2,J3,J4",,,3,,0,,1\1,yes,0%
+,Micro JST 2-Pin Male PCB Connector 1.25mm JST GH,"JP1,JP3",,,2,,0.22,,1\1,yes,60%
+C72043,LED-0603_G,LED2,Everlight Elec,C72043,1,0.0319,0.03,1499940,20\20,yes,100%
+C72044,LED-0603_R,LED3,Everlight Elec,C72044,1,0.0173,0.02,1340550,50\50,yes,100%
+C66690,Header-Male-2.54_2x2,P1,BOOMELE(Boom Precision Elec),C66690,1,0.0236,0.02,31960,20\20,yes,100%
+C78284,BSS138,"Q1,Q2,Q4,Q5",Changjiang Electronics Tech (CJ),C78284,4,0.0325,0.13,249520,20\20,yes,100%
+,DMG3415U-7,Q3,Nexperia,C458161,1,,0.53,,1\1,yes,60%
+,4.7k,R1,Texas Instruments,C2150671,1,,3.46,,1\1,yes,60%
+,1k,"R2,R5,R6,R7,R8,R9",Monolithic Power Systems,C357782,6,,0,,1\1,yes,60%
+,10k,"R3,R4,R10,R11",Nexperia,C458161,4,,2.13,,1\1,yes,60%
+,Molex PicoBlade 8pins,U1,,,1,,0.53,,1\1,yes,0%
+,AP2112-3.3,U2,KEMET,C2251729,1,,0.11,,1\1,yes,60%
+ESP32-S3-WROOM-1,ESP32-S3-WROOM-1,U3,,,,,,,,,0%
+C10681,ACS712ELCTR-20A-T,U20,"Allegro MicroSystems, LLC",C10681,1,,2.94,,1\1,yes,100%
+C707824,KF7.62-2P,U22,Cixi Kefa Elec,C707824,1,0.1162,0.12,20245,5\5,yes,100%
