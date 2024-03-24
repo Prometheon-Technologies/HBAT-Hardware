@@ -16,11 +16,11 @@ This project is the open source version of our battery BMS system. In the very e
 
 ## Current board Concept images
 
-![Balancing Board](img/BalancingBoard.png "Balancing Board")
+<!-- ![Balancing Board](img/BalancingBoard.png "Balancing Board")
 
 ![Control Board](img/Control_Board.png "Control Board")
 
-![Control Board](img/Relay_Board.png "Relay Board")
+![Control Board](img/Relay_Board.png "Relay Board") -->
 
 ### Code
 
