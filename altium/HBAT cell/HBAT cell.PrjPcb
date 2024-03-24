@@ -103,7 +103,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=Schematic-Lib-AGL Electronics.SchLib
+DocumentPath=AGL libs\Schematic-Lib-AGL Electronics.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -120,7 +120,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=Footprint-Lib-AGL Electronics.PcbLib
+DocumentPath=AGL libs\Footprint-Lib-AGL Electronics.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
