@@ -27,8 +27,8 @@ Power supply is provided by a central power bus from the main processing board. 
 ## PCB Hardware Specification Requirements
 
 1. **Size and Dimensions**
-    - The PCB should have a length of X inches and a width of Y inches.
-    - The overall thickness of the PCB should not exceed Z inches.
+    - The PCB should have a length of X MM and a width of Y MM.
+    - The overall thickness of the PCB should not exceed Z MM.
 
 2. **Layers**
     - The PCB should have N layers, including signal layers, power planes, and ground planes.
