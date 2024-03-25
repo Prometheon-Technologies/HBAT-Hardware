@@ -1,1 +1,4 @@
-mosfed swithing on the MB with the controlls comming via the cell, and feeback if switch was correct to cell aswell
+* mosfed swithing on the MB with the controlls comming via the cell, and feeback if switch was correct to cell aswell
+* gate driver for the feds
+* curent sensing I2c or adc
+* stm32g070 for now will likely change in future after MVP
