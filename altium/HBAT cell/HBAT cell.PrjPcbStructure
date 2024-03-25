@@ -1,2 +1,5 @@
-Record=TopLevelDocument|FileName=sheet1.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=sheet1.SchDoc|FileName=Sheet2.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=mcu.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=mcu.SchDoc|FileName=power management.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=mcu.SchDoc|FileName=requirements.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=mcu.SchDoc|FileName=switching and switch sensing.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=mcu.SchDoc|FileName=Title page.SchDoc|SheetNumber=1
