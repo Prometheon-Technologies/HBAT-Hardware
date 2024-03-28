@@ -154,7 +154,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SIBNPGGJ
 
 [Document7]
-DocumentPath=power management.SchDoc
+DocumentPath=periferels.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=1
@@ -1257,6 +1257,13 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=3V3|NetColor=$000099FF
+Net2=NetName=5V|NetColor=clYellow
+Net3=NetName=CELL_ANODE|NetColor=$00E8864A
+Net4=NetName=CELL_CATHODE|NetColor=clBlue
+Net5=NetName=GND|NetColor=clBlack
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
